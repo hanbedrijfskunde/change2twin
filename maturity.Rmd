@@ -3,3 +3,5 @@ title: "Are you ready to Twin?"
 ---
 
 Here we discuss the required assets for Digital Twinning and let visitors measure their maturity level (scan).
+
+![](images/consideration.svg)
