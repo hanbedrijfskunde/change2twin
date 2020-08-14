@@ -3,14 +3,14 @@ output_dir: "."
 navbar:
   title: "Change2Twin"
   left:
-    - text: "Digital Twinning"
+    - text: "Home"
       href: index.html
-    - text: "Community Journey"
-      href: journey.html
-    - text: "Programme"
-      href: programme.html
-    - text: "Outcomes"
-      href: outcomes.html
+    - text: "Ready2Change"
+      href: maturity.html
+    - text: "Activities"
+      href: activities.html
+    - text: "About"
+      href: about.html
 output:
   html_document:
     theme: cerulean
