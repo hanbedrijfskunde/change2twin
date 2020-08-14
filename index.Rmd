@@ -18,11 +18,12 @@ deploy a digital twin.</blockquote>
 <hr>
 ### Why are Digital Twins important?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ObGhB9CCHP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ObGhB9CCHP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <hr>
 
 ### Why should it matter to your organization?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0-N5J6l1nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o0-N5J6l1nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
