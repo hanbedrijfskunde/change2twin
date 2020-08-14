@@ -1,16 +1,8 @@
 ---
-title: "Digital Twinning"
+title: " Welcome to Change2Twin!"
 ---
 
-Welcome to Change2Twin!
-
-Here we answer the following questions:
-
-* What is Digital Twinning?
-* Why is it important (general purpose / value)?
-* Why should it matter to the visitor?
-
-The concept of Digital Twins is currently recognized as one of the big game-changers for the manufacturing industry
+Digital Twins are virtual representations of real-world products and systems. The concept of Digital Twins is currently recognized as one of the big game-changers for the manufacturing industry
 allowing companies to significantly increase their global competitiveness. The EFFRA’s Factories of the future
 multi-annual [roadmap for Horizon 2020](docs/factories_of_the_future_2020_roadmap.pdf) presents “Modelling, simulation and forecasting methods and tools” as one
 of the key technologies and enablers. This importance is highlighted even more in the roadmap for Horizon Europe3
@@ -22,6 +14,13 @@ optimisation for digital twins of the DT-ICT-03 call, with the following main am
 deploy a digital twin”.
 
 <hr>
+### Why are Digital Twins important?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObGhB9CCHP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr>
+
+### Why should it matter to your organization?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0-N5J6l1nM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

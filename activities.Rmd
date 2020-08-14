@@ -3,3 +3,6 @@ title: "Activities"
 ---
 
 Here we inform about our educational offerings.
+<br><br>
+
+![](images/journey.svg)
