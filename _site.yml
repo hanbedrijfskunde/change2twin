@@ -1,0 +1,15 @@
+name: "Change2Twin"
+navbar:
+  title: "Change2Twin"
+  left:
+    - text: "Digital Twinning"
+      href: index.html
+    - text: "Community Journey"
+      href: journey.html
+    - text: "Programme"
+      href: programme.html
+    - text: "Outcomes"
+      href: outcomes.html
+output:
+  html_document:
+    theme: cerulean
