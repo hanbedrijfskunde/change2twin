@@ -1,4 +1,5 @@
 name: "Change2Twin"
+output_dir: "."
 navbar:
   title: "Change2Twin"
   left:
