@@ -6,7 +6,7 @@ title: " Welcome to Change2Twin!"
 allowing companies to significantly increase their global competitiveness.</p>
 The EFFRA’s Factories of the future
 multi-annual [roadmap for Horizon 2020](docs/factories_of_the_future_2020_roadmap.pdf) presents “Modelling, simulation and forecasting methods and tools” as one
-of the key technologies and enablers. This importance is highlighted even more in the roadmap for Horizon Europe3
+of the key technologies and enablers. This importance is highlighted even more in the roadmap for Horizon Europe
 ,
 where digital twinning is highlighted as the enabler with the highest contribution to all of the key priorities of
 European manufacturing. Change2Twin focuses on smart modelling, simulation, and
